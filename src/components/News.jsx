@@ -8,7 +8,7 @@ const { Text, Title } = Typography;
 const { Option } = Select;
 
 const demoImage =
-  "http://coinrevolution.com/wp-content/uploads/2020/06/cryptonews.jpg";
+"http://coinrevolution.com/wp-content/uploads/2020/06/cryptonews.jpg";
 
 const News = ({ simplified }) => {
   const [newsCategory, setNewsCategory] = useState("Cryptocurrency");
